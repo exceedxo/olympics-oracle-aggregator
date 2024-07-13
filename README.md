@@ -50,3 +50,6 @@ Made for **Solana Talent Olympics** by [Exceed](https://twitter.com/exceedxo)
 **The Solana RPC URL inside the ```.env``` file needs to support websocket and other functions that most public RPCs do not offer.**
 
 **Usage of private/paid RPC node is recommended or even required.**
+
+# Video Presentation
+- [YouTube](https://youtu.be/bnfMOAhT-f0)
